@@ -1,7 +1,6 @@
 body {
-  background-image: url(https://fs.codeanywhere.com/file/open?token=a98fa5f5f57a423d8076b106cbc70191f1014324c5bc828b&connectionId=1737935&path=public/img/25009355_151549512155021_6500172817672175616_n.jpg&encoding=UTF-8&id=b6ae17a28570892b6dc2fbe7a5ba405a&);
-  text-align: center;
-}
+  background-image: url("25009355_151549512155021_6500172817672175616_n");
+  }
 
 h1 {
   font-size: 5cm;
